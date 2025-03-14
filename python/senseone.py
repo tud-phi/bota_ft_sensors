@@ -96,8 +96,8 @@ class BotaSerialSensor:
 
         # configuration
         if not self.setup(config):
-            print("Failed to setup sensor")
-            return
+            raise Exception("Failed to setup sensor")
+
         print("Sensor setup complete")
 
     def setup(self, config: Config):
