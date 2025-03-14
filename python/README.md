@@ -1,10 +1,10 @@
 # bota sensone force-torque sensor
 
-this directory contains useful information about using the [https://www.botasys.com/force-torque-sensors/sensone](bota sensone) force-torque sensor.
+this directory contains useful information about using the [bota sensone](https://www.botasys.com/force-torque-sensors/sensone) force-torque sensor.
 
 ### usage
 
-the main script is `sensone.py` which is a cleaner version of the `bota_serial_example.py` script [https://gitlab.com/botasys/python_interface/-/blob/main/examples/bota_serial_example.py](provided by bota).
+the main script is `sensone.py` which is a cleaner version of the `bota_serial_example.py` script [provided by bota](https://gitlab.com/botasys/python_interface/-/blob/main/examples/bota_serial_example.py).
 
 there is a tiny example of usage in the main script that looks like this:
 
